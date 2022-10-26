@@ -1,0 +1,20 @@
+Dear Prasanna,
+
+User Module
+-----------
+
+Fields:
+-------
+firstName, lastName, displayName, email, mobileNumber, password
+
+Database: _id (uniqueId)
+
+Create - POST
+Read - GET
+Update - PUT/PATCH (Password update)
+Delete - DELETE
+
+
+I hope, you find it useful.
+
+routes,model,services,controllers, middleware, 
